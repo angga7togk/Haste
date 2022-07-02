@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/angga7togk/Haste
+build-by-default: true
+branches:
+- main
+projects:
+  Haste:
+    path: ""
+    icon: "icon.png"
+...
