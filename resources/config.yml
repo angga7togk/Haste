@@ -1,0 +1,6 @@
+Effect:
+  Time:
+    Second: 300
+  Message:
+    Enable: "Haste enabled"
+    Disable: "Haste disabled"

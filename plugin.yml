@@ -1,0 +1,16 @@
+name: Haste
+main: Angga7Togk\Haste\Main
+version: 1.0
+api: 4.0.0
+author: Angga7Togk
+description: "this plugin helps you to destroy blocks faster"
+
+commands:
+  haste:
+    description: "/haste [on, enable]"
+    permission: haste.command
+
+permissions:
+  haste.command:
+    description: "Haste Permission"
+    default: op
